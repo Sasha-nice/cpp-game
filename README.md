@@ -1,11 +1,11 @@
 # cpp-game
 Rogue-like game
 Сборка и запуск:
-Из директории проекта, где лежит файл main.cpp
-cmake CMakeLists.txt
-make
-cd bin
-./main
+Из директории проекта, где лежит файл main.cpp  
+cmake CMakeLists.txt  
+make  
+cd bin  
+./main  
 
 Самый быстрый маршрут: вниз - вниз - вниз - вниз - вниз - направо - направо - направо
 Реализовано:
